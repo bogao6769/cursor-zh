@@ -1,0 +1,16 @@
+{
+  "_comment": "本地补词：cursor-zh 词典未覆盖的新版文案，构建时合并进去（优先于主词典）",
+  "exact": {
+    "Deploy my prototype": "部署我的原型",
+    "Put a project on a shareable live link": "把项目发布成可分享的在线链接",
+    "Review my database": "检查我的数据库",
+    "Check schema, indexes, and risky access rules": "检查表结构、索引和高风险访问规则",
+    "Start with a plan": "先做规划",
+    "Align on implementation before writing code": "写代码前先对齐实现方案",
+    "Debug an issue": "调试问题",
+    "Find root causes and fix tricky bugs": "定位根因，修掉棘手的 bug",
+    "Plan, Build, / for skills, @ for context": "Plan、Build，/ 调用技能，@ 引入上下文",
+    "/ for skills, @ for context": "/ 调用技能，@ 引入上下文",
+    "Use /model to pick the best model for your task and choose Grok for a great balance of cost vs. capability": "用 /model 为你的任务挑选最合适的模型，选 Grok 可以在成本与能力之间取得很好的平衡"
+  }
+}
